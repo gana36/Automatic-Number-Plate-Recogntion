@@ -28,6 +28,11 @@ For Testing the model:
 
         Link : https://drive.google.com/file/d/1QAFdt5Mq8X6fZud7kdsjaJbJfSXrsFse/view?usp=sharing 
         
+# Workflow 
+
+![image](https://user-images.githubusercontent.com/71372490/162795768-cc9d0545-d968-4ffb-a03d-3a9faf48e7c6.png)
+
+        
 # Challenges Faced  and Solutions applied
 
 Saving the Video/photos from the CCTV to local PC for future evaluation and use cases is done by adding the CCTV running port as a trusted site.
@@ -41,7 +46,7 @@ Skipping frames in saved video works fine, but just skipping frames in the real 
         
 # Real Time Results 
 
-![image](https://user-images.githubusercontent.com/71372490/162795300-4ad13da5-062c-472a-aedc-af11baf1c0a5.png)
+![image](https://user-images.githubusercontent.com/71372490/162795625-3b1b49cc-4f8e-4875-afef-d84c16729105.png)
 ![image](https://user-images.githubusercontent.com/71372490/162795324-c5d5e36b-82fc-4d8c-9b61-54be1f092a9c.png)
 ![image](https://user-images.githubusercontent.com/71372490/162795349-b78a3115-97ea-4616-a22f-cec5425dc822.png)
 
