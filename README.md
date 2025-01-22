@@ -46,8 +46,6 @@ Skipping frames in saved video works fine, but just skipping frames in the real 
         
 # Real Time Results 
 
-![image](https://user-images.githubusercontent.com/71372490/162795625-3b1b49cc-4f8e-4875-afef-d84c16729105.png)
 ![re_det_1](https://github.com/user-attachments/assets/7bc47f3e-92ac-4908-b76a-d0dfe2195aab)
-![image](https://user-images.githubusercontent.com/71372490/162795324-c5d5e36b-82fc-4d8c-9b61-54be1f092a9c.png)
-![image](https://user-images.githubusercontent.com/71372490/162795349-b78a3115-97ea-4616-a22f-cec5425dc822.png)
-
+![det_4](https://github.com/user-attachments/assets/43827233-a9be-44eb-aecb-6cab1e0a5de1)
+![det_3](https://github.com/user-attachments/assets/d678bfe9-63c9-47bf-94b4-0bbc2542fbf9)
